@@ -1,0 +1,9 @@
+embeddings/
+models/
+shared/
+data/saved_cwc_datasets
+*.pyc
+*.cdsenv
+*.cdsinit
+*cds.lib
+*.DS_Store
